@@ -95,16 +95,15 @@ cap.release()
 cv2.destroyAllWindows()
 
 ```
-```
 ## Output
 
 ### i) Write the frame as JPG image
-
+![WhatsApp Image 2023-08-29 at 10 33 11 PM](https://github.com/BaskaranV15/Image-Acquisition-from-Web-Cameraa/assets/118703522/0deb6462-6cc6-4c7c-a688-c3cc5a962e86)
 ### ii) Display the video
-
+![WhatsApp Image 2023-08-29 at 10 33 11 PM](https://github.com/BaskaranV15/Image-Acquisition-from-Web-Cameraa/assets/118703522/70dc69ff-bd66-43c6-bacc-46543806b93f)
 ### iii) Display the video by resizing the window
-
+![WhatsApp Image 2023-08-29 at 10 32 47 PM](https://github.com/BaskaranV15/Image-Acquisition-from-Web-Cameraa/assets/118703522/97b3c23c-da59-4835-a0e7-8a527591f869)
 ### iv) Rotate and display the video
-
+![WhatsApp Image 2023-08-29 at 10 33 25 PM](https://github.com/BaskaranV15/Image-Acquisition-from-Web-Cameraa/assets/118703522/d4972568-18b7-439b-a4ba-cb6f8b9ab3e2)
 ## Result:
 Thus the image is accessed from webcamera and displayed using openCV.
